@@ -1,6 +1,4 @@
-⚠️⚠️ This plugin is not under development. There is no roadmap for a WordPress plugin yet ⚠️⚠️
-
-# ⚠️ meilisearch-wordpress ⚠️
+# meilisearch-wordpress
 
 Meilisearch plugin for WordPress
 
